@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         (fill)
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  merk zone aimbot test in PRIV server only
+// @description  (fill)
 // @author       You
-// @match        http:https://www.merc.zone/
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-// @grant better aim
+// @match        https://
+// @icon         (fill)
+// @grant (fill)
 // ==/UserScript==
